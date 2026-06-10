@@ -5,6 +5,11 @@ title: "Paid inquiry: client intake and sop package"
 labels: paid-inquiry, needs-scope
 ---
 
+## Fastest Buyer Links
+
+- Ready-to-buy route: https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy-client-intake-and-sop-package.html
+- Prefilled inquiry page: https://jaxassistant55.github.io/client-intake-sop-starter/inquiry.html
+
 ## Buyer Request
 
 - Business/service type:

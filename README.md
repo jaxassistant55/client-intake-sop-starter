@@ -5,6 +5,8 @@ Free public preview for a fixed-scope Client Intake and SOP Package.
 This repository exists as a lead surface for a paid service:
 
 - Paid offer: https://jaxassistant55.github.io/jax-micro-offer-studio/client-intake-and-sop-package.html
+- Ready-to-buy route: https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy-client-intake-and-sop-package.html
+- Prefilled inquiry page: https://jaxassistant55.github.io/client-intake-sop-starter/inquiry.html
 - Live free preview: https://jaxassistant55.github.io/client-intake-sop-starter/demo/
 - Repo order board: https://github.com/jaxassistant55/client-intake-sop-starter/issues/1
 - Scope builder: https://jaxassistant55.github.io/jax-micro-offer-studio/client-intake-sop-builder.html
