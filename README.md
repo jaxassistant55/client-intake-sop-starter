@@ -6,6 +6,7 @@ This repository exists as a lead surface for a paid service:
 
 - Paid offer: https://jaxassistant55.github.io/jax-micro-offer-studio/client-intake-and-sop-package.html
 - Live free preview: https://jaxassistant55.github.io/client-intake-sop-starter/demo/
+- Repo order board: https://github.com/jaxassistant55/client-intake-sop-starter/issues/1
 - Scope builder: https://jaxassistant55.github.io/jax-micro-offer-studio/client-intake-sop-builder.html
 - Order-board issue: https://github.com/jaxassistant55/jax-micro-offer-studio/issues/22
 - Price: $125
